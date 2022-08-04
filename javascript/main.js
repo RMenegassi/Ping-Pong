@@ -28,7 +28,7 @@ window.onload = function(){
 }
 
 canva.addEventListener('mousemove',function(event){
-    posicaoP1 = event.clientY - alturaRaquete/2 - 90;
+    posicaoP1 = event.clientY - alturaRaquete/2 - 80;
 });
 
 function desenhar(){
