@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    font-family: 'Press Start 2P';
+}
+
+.titulo-principal{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    margin: 0 0 15px 0;
+    padding: 15px 0 0 0;
+}
+
+.jogo{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.canva{
+    box-shadow: 0 0 0px 1px #FFFFFF;
+}
+
+.titulo-secundario{
+    color:#FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px 0 0 0;
+}
+
+ul li{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 15px 0 0 0;
+    font-size: 12px;
+}
