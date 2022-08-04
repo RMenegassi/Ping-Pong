@@ -32,4 +32,5 @@ ul li{
     text-align: center;
     padding: 15px 0 0 0;
     font-size: 12px;
+    list-style-type: none;
 }
